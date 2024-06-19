@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "id": "010156",
+      "namabuku": "malin kundang",
+      "penulisbuku": "si tanggang",
+      "penerbitbuku": "jontahan",
+      "tahunterbit": "2003",
+      "banyakhalaman": "111 halaman",
+      "bahasabuku": "Inggris",
+      "linkdownload": "https://sahaggydog.com"
+    },
+    {
+      "id": "214124",
+      "namabuku": "sejarah uang",
+      "penulisbuku": "Timoty ronald",
+      "penerbitbuku": "Timoty",
+      "tahunterbit": "2022",
+      "banyakhalaman": "215 halaman",
+      "bahasabuku": "Indonesia",
+      "linkdownload": "https://shopee.co.id/Buku-SEJARAH-UANG-i.12916033.6090480836"
+    },
+    {
+      "id": "362334",
+      "namabuku": "The Inteligent Investor",
+      "penulisbuku": "Benjamin Graham",
+      "penerbitbuku": "Grab media",
+      "tahunterbit": "1949",
+      "banyakhalaman": "826 Halaman",
+      "bahasabuku": "Inggris",
+      "linkdownload": "https://www.gramedia.com/products/the-intelligent-investor-hc-edisi-revisi"
+    }
+  ]
+}
